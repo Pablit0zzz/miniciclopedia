@@ -1,0 +1,1 @@
+web: gunicorn HelloShreck.wsgi --log-file -

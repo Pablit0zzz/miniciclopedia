@@ -1,4 +1,0 @@
-russian-hackers.aboba
-__pycache__/
-*.pyc
-db.sqlite3
